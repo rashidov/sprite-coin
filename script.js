@@ -83,7 +83,7 @@ canvas.width = 100
 canvas.height = 100
 
 const coinImage = new Image()
-const src = './coin.png'
+const src = './img/coin.png'
 coinImage.src = src
 
 const sprite = new Sprite({
